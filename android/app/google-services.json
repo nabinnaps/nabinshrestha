@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700283996077",
+    "project_id": "nabinshrestha-f2c2d",
+    "storage_bucket": "nabinshrestha-f2c2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700283996077:android:b71d6a305fd8f513e54324",
+        "android_client_info": {
+          "package_name": "com.example.nabinshrestha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9_YixQK8JpnBTboITXdcdPOse4hSl_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
